@@ -1,11 +1,11 @@
 Тестовый телеграм бот - https://t.me/check_mc_bot. Пример работы: 
-![image](https://github.com/user-attachments/assets/e344e577-1b4b-4465-870e-da27a37d1405)
+![image](https://github.com/user-attachments/assets/30910d98-771b-43d1-8c78-fd7cd7cdef4c)
 
 Тестовый дискорд бот - https://discord.gg/W2QV8x8RNp. Пример работы: 
-![image](https://github.com/user-attachments/assets/60aab282-f37d-42a7-a423-5b0fda57c703)
+![image](https://github.com/user-attachments/assets/eaf1014e-b1d8-4ca8-8f3f-244b17fbf844)
 
 Пример таблицы в бд:
  
-![image](https://github.com/user-attachments/assets/8ac7d432-83ca-451e-a3d2-68b9300f4a24)
+![image](https://github.com/user-attachments/assets/8e311354-a5a7-439c-a47e-2bcbbd9e5f67)
 
-Бот продолжает обновляться и возможно скрины уже не актуальные.
+Таблица создается автоматические, когда пользователь проверяет список проверок.
